@@ -1,0 +1,1 @@
+INSERT INTO CAT_FOLLOW (author_id, follow_id) VALUES ('grumpy', 'tom');
